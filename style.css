@@ -1,0 +1,13 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+.bg{
+    display: block;
+    width: 400px;
+    height: 200px;
+    background:#f4f4f4;
+    position: absolute;
+    top: 35%;
+    left: 35%;
+}
